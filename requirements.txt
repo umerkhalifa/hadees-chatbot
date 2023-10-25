@@ -1,0 +1,6 @@
+nltk
+transformers
+datasets
+scikit-learn
+evaluate
+rouge_score
